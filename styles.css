@@ -1,0 +1,33 @@
+
+
+
+
+#loginContainer {
+    display: flex;
+    padding-left: 15%;
+    padding-right: 25%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+
+#loginImageContainer {
+flex: 1; 
+}
+#loginImage {
+    padding-top: 200px;
+    padding-bottom: 200px;
+    height: 490px;
+}
+#logo {
+    height: 200px;
+    width: 200px;
+    flex: .5;
+    padding-bottom: 60px;
+}
+
+.loginFields {
+    display: flex;
+    flex-direction: column;
+}
